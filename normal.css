@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body,h1,h2,h3,h4,h5,h6,p,ul,li,input,textarea,dl,dd,dt{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lexend Giga', 'Inconsolata','Ubuntu',  sans-serif;
+}
+p{
+  font-family: sans-serif;
+}
+/* font-family: 'Lexend Giga', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Inconsolata', monospace; */
+
+a{
+  text-decoration: none;
+}
+li{
+  list-style-type: none;
+}
